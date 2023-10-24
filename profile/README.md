@@ -1,4 +1,4 @@
-<img align="right" width="45%" alt="Logo ORT" src="https://bg-so-1.zippyimage.com/2023/10/24/1949e0f0aa90488343404a3e658b5f77.png" />
+<img align="right" width="45%" alt="Logo ORT" src="https://bg-so-1.zippyimage.com/2023/10/24/cfcf73422f9564677706d65737c0e189.png" />
 
 # Proyecto Integrador
 ## Analista en Tecnologías de la Información
