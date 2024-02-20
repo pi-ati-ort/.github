@@ -13,7 +13,7 @@
 `Nota: /100`
 <hr/>
 
-<img align="right" width="70%" alt="Entrega Final" src="https://github.com/pi-ati-ort/.github-private/assets/82982815/4f406725-ba4d-412c-a7b3-8928abd982f9" />
+<img align="right" width="70%" alt="Entrega Final" src="https://github.com/pi-ati-ort/.github/assets/82982815/cbd26f2a-9f81-4789-80b6-4267d8222683" />
 
 ## Contenido
 
@@ -75,7 +75,7 @@ En resumen, el proyecto tiene como objetivo aportar valor incorporando nuevas fu
 
 ### Diagrama de Domino
 
-<img width="50%" align="left" alt="Captura de pantalla 2024-02-17 a la(s) 17 58 50" src="https://github.com/pi-ati-ort/.github-private/assets/82982815/f63dc321-8b68-47c3-9a23-c27a32082726">
+<img width="50%" align="left" alt="Diagrama de Dominio" src="https://github.com/pi-ati-ort/.github/assets/82982815/bf22f381-be54-4744-9d06-e0203fc00925">
 
 El diagrama de dominio presentado describe las entidades y relaciones involucradas en la gestión de este proyecto.
 
@@ -95,7 +95,7 @@ Representa a la persona que utiliza el sistema BIM. El usuario tiene un identifi
 
 ### Diagrama de Diseño
 
-<img width="1231" alt="Captura de pantalla 2024-02-17 a la(s) 20 04 58" src="https://github.com/pi-ati-ort/.github-private/assets/82982815/dfeb39fe-cae6-4ffc-bc15-00a34605da48">
+<img width="100%" alt="Diagrama de Diseño" src="https://github.com/pi-ati-ort/.github/assets/82982815/08b423ea-f8ee-486e-8470-f4b8c1594445">
 
 <br/>
 <br/>
@@ -130,7 +130,7 @@ Para la planificación se utilizo GitHub Projects. Se puede consultar el cronogr
 
 ## Demo
 
-https://github.com/pi-ati-ort/.github-private/assets/82982815/0f6af1ed-854c-45fc-8622-8d08529069b2
+https://github.com/pi-ati-ort/.github/assets/82982815/cfcd348a-8cdb-46f5-b0d0-1884d6ce7c1c
 
 <br/>
 <hr/>
@@ -155,17 +155,15 @@ https://github.com/pi-ati-ort/.github-private/assets/82982815/0f6af1ed-854c-45fc
 
 ### Sistema de Acceso
 
-https://github.com/pi-ati-ort/.github-private/assets/82982815/d2cf256c-4b30-4345-bdb2-bb864cfe72e4
+https://github.com/pi-ati-ort/.github/assets/82982815/16ff11a3-e65f-434e-988c-d93787595d22
 
 ### Rol Arquitecto
 
-https://github.com/pi-ati-ort/.github-private/assets/82982815/b4ddff50-c271-4421-897b-1299513ae6c5
-
+https://github.com/pi-ati-ort/.github/assets/82982815/c2376d21-2608-486a-9924-2f8bd2836716
 
 ### Rol Administrador
 
-https://github.com/pi-ati-ort/.github-private/assets/82982815/3d1cd6a6-fbe7-4a21-8686-3bb141f830d4
-
+https://github.com/pi-ati-ort/.github/assets/82982815/708abc53-f619-4b8c-814e-09a010cf6460
 
 <br/>
 <hr/>
