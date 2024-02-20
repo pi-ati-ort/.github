@@ -80,13 +80,13 @@ En resumen, el proyecto tiene como objetivo aportar valor incorporando nuevas fu
 El diagrama de dominio presentado describe las entidades y relaciones involucradas en la gestión de este proyecto.
 
  **Usuario**<br/>
-Representa a la persona que utiliza el sistema BIM. El usuario tiene un identificador único (id), un nombre, un nombre de usuario y una contraseña.
+Representa al usuario de rol Arquitecto o Administrador que utiliza el sistema BIM. El usuario tiene un identificador único (id), un nombre, un nombre de usuario y una contraseña, y un rol, entre otras cosas.
 
  **Proyecto**<br/>
- Es un conjunto de actividades y recursos organizados para alcanzar un objetivo específico en la construcción. El proyecto tiene un nombre, una descripción, un esquema, una dirección, un padrón, un identificador de proyecto (poid) y un identificador único universal (uuid).
+ Es un conjunto de datos y recursos sobre la construcción. El proyecto tiene un nombre, una descripción, un esquema, una dirección, un padrón, un identificador BIM y un identificador único universal (uuid), entre otras cosas.
 
  **Modelo**<br/>
- Es una representación digital de un edificio o infraestructura.
+ Es una representación digital de la construccion de un edificio.
 
 <br/>
 <br/>
