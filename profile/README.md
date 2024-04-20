@@ -10,7 +10,7 @@
 
 # Ampliación de sistema piloto de permisos de construcción digitales para la Intendencia de Montevideo.
 ### Autores: Nicolás Fernández - Sebastián Paulos
-`Nota: /100`
+`Nota: 90/100`
 <hr/>
 
 <img align="right" width="70%" alt="Entrega Final" src="https://github.com/pi-ati-ort/.github/assets/82982815/cbd26f2a-9f81-4789-80b6-4267d8222683" />
@@ -170,7 +170,7 @@ https://github.com/pi-ati-ort/.github/assets/82982815/708abc53-f619-4b8c-814e-09
 
 ## Instalación
 
-Aquí se explicará como ejecutar los subsistemas backend y DMN de manera local para poder probar la validación normativa. 
+Aquí se explicará como ejecutar todos los subsistemas localmente para poder probar toda la aplicación correctamente. 
 
 *En proceso...*
 
