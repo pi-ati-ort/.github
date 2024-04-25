@@ -125,6 +125,7 @@ Se incorporará un sistema que permitirá visualizar e interactuar con diseños 
 
 Para la planificación se utilizo GitHub Projects. Se puede consultar el cronograma con todas las tareas del proyecto [acá](https://github.com/orgs/pi-ati-ort/projects/4).
 
+<br/>
 <hr/>
 
 ## Demo
@@ -146,7 +147,8 @@ https://github.com/pi-ati-ort/.github/assets/82982815/cfcd348a-8cdb-46f5-b0d0-18
 
 **DMN Server** [https://jbpm-dmn.eastus2.azurecontainer.io/business-central/kie-wb.jsp](https://jbpm-dmn.eastus2.azurecontainer.io/business-central/kie-wb.jsp)
 <br/>
-*En local en localhost:8080/busin...*
+<br/>
+
 
 <hr/>
 
